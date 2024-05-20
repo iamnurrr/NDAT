@@ -1,0 +1,37 @@
+﻿  main.cpp
+C:\Users\Merve\source\repos\Menü\Menü\main.cpp(57,29): warning C4244: '-=': 'float' - '_Ty2' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Merve\source\repos\Menü\Menü\main.cpp(85,32): warning C4244: '-=': 'float' - '_Ty2' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Merve\source\repos\Menü\Menü\main.cpp(154,39): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Merve\source\repos\Menü\Menü\main.cpp(154,13): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Merve\source\repos\Menü\Menü\main.cpp(159,98): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Merve\source\repos\Menü\Menü\main.cpp(159,68): warning C4244: 'bağımsız değişken': 'int' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\Merve\source\repos\Menü\Menü\main.cpp(159,43): warning C4244: 'bağımsız değişken': '_Ty2' - 'GLfloat' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Merve\source\repos\Menü\Menü\main.cpp(159,26): warning C4244: 'bağımsız değişken': '_Ty1' - 'GLfloat' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Merve\source\repos\Menü\Menü\main.cpp(166,32): warning C4244: 'bağımsız değişken': '_Ty1' - 'GLfloat' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Merve\source\repos\Menü\Menü\main.cpp(168,87): warning C4244: 'bağımsız değişken': '_Ty2' - 'GLfloat' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Merve\source\repos\Menü\Menü\main.cpp(353,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Menü.vcxproj -> C:\Users\Merve\source\repos\Menü\x64\Debug\Menü.exe

@@ -1,0 +1,44 @@
+
+Hazırlayanlar:
+
+210401051 Elif Özün
+200401077 Elif Zehra Yılmaz
+210401069 Merve Nur Çelik
+180401115 Özlem Emine AYDIN DAĞ
+
+
+
+Bilgisayar Mühendisliği Nesneye Dayalı Analiz ve Tasarım Dersi
+
+
+Proje başlangıçta iki seçenek sunar
+1-Mini oyun 
+2-3D Animasyon Küp
+
+Main fonksiyonu Menü adlı projenin içerisindedir.
+Menüden seçilen seçeneğe göre Mini Oyun veya 3D Modelleme kodlarını
+çalıştırır.
+
+-Mini oyun işleyişi:
+♦Ok tuşlarını kullanarak ekranın en altında bulunan çubuğu(sepet) sağa veya sola hareket ettirirsiniz.
+♦Ekranın en üstünden başlayarak aşağı doğru Yeşil  renkte dikdörtgenler (apples) ve kırmızı renkte üçgenler(triangle) gelir.
+
+-Oyunun Kuralları:
+♦Yukarıdan aşağıya doğru gelen yeşil dikdörtgenleri çubuğu kullanarak yakaladığınızda +25 kazanırsınız.
+♦Fakat çubuğa kırmızı üçgenleri denk getirirseniz -50 puan alırsınız.
+♦Toplam 3 canınız(lives) bulunmakta.
+♦3 canın sonunda oyun Game Over olur.Tekrardan başlatmak için 'R' tuşuna basmalısınız.
+♦Score sayınız topladığınız dikdörtgen ve üçgene göre değişmektedir ve oyuna 0 puan ile başlarsınız.
+♦Score 100'e ulaştığında üçgenler biraz daha hızlanır. 
+♦Score 200'e ulaştığında dikdörtgenler ve üçgenler hızlanır.
+♦Score 300' e ulaştığında bir kademe daha ikisi tekrardan hızlanır.
+♦Score 400'e ulaştığında hızlanmakla beraber üçgenlerin boyutu 2 katına çıkar
+♦Score 500'e ulaştığında son kademedir üçgenler artık 2.50 katına çıkar ve çok daha hızlı bir oyunla devam edersiniz.
+
+
+-3D Modelleme işleyişi
+♦'A' tuşuna basıp bırakarak renkli küpü Z ekseninde kaydırabilirsiniz.
+♦Mause kullanarak küpü çevirir veya döndürebilirsiniz. Animasyon açıkken veya kapalı iken mause ile yaptığınız hareketler farklılaşacaktır.
+
+
+
